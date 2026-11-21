@@ -1,0 +1,61 @@
+{
+  "art_direction": "Bon Appétit / NYT Cooking luxury editorial food photography, warm holiday dinner candlelight and soft lateral winter lighting, dark rustic wood table, artisan ceramic plates, vintage silverware, subtle bokeh of pine boughs and twinkling festive lights in soft-focus background, 50mm f/1.8 lens, ultra-sharp focus on the dish, vibrant appetizing colors. PROHIBITION: NO text, NO words, NO letters, NO numbers, NO watermarks.",
+  "batches": {
+    "batch_1": [
+      {
+        "id": "cover",
+        "aspect_ratio": "2:3",
+        "target": "cover.png",
+        "prompt": "Editorial food photography in Bon Appétit magazine style, shot on 50mm f/1.8. A lavish, magnificent Christmas dinner table feast centered on a dark rustic wood table, featuring a sliced garlic herb crusted prime rib roast, golden roast turkey breast, bubbling potato gratin, cranberry sauce, glowing candles, pine boughs with warm bokeh, clean negative space at the upper third for typography. Ultra-realistic, rich colors, no text, no words."
+      },
+      {
+        "id": "recipe_01",
+        "aspect_ratio": "4:3",
+        "target": "recipe_01.png",
+        "prompt": "Editorial food photography. Cranberry rosemary baked brie in golden puff pastry. Flaky pastry bundle sliced open revealing molten double-cream cheese oozing onto a wooden board, crowned with glossy bubbling ruby cranberry-pecan compote and fresh rosemary needles, 50mm f/1.8, no text, no words."
+      },
+      {
+        "id": "recipe_02",
+        "aspect_ratio": "4:3",
+        "target": "recipe_02.png",
+        "prompt": "Editorial food photography. Beef carpaccio crostini. Crisp grilled baguette toasts draped with paper-thin ribbons of prime raw beef tenderloin, drizzled with black truffle aioli, shaved Parmigiano-Reggiano curls, capers, and wild baby arugula, 50mm f/1.8, no text, no words."
+      },
+      {
+        "id": "recipe_03",
+        "aspect_ratio": "4:3",
+        "target": "recipe_03.png",
+        "prompt": "Editorial food photography. Garlic herb stuffed baby bella mushrooms. Plump cremini mushroom caps filled with creamy herb cheese and topped with a golden, crackling browned butter parmesan panko crust, served on an antique platter with fresh parsley, 50mm f/1.8, no text, no words."
+      },
+      {
+        "id": "recipe_04",
+        "aspect_ratio": "4:3",
+        "target": "recipe_04.png",
+        "prompt": "Editorial food photography. Fresh burrata with warm roasted red grapes. Two creamy burrata balls torn open showing luscious oozing stracciatella, surrounded by blistered balsamic-roasted red grapes, shards of crispy prosciutto, and toasted pine nuts on a rustic ceramic platter, 50mm f/1.8, no text, no words."
+      },
+      {
+        "id": "recipe_05",
+        "aspect_ratio": "4:3",
+        "target": "recipe_05.png",
+        "prompt": "Editorial food photography. Caramelized French onion and Gruyère tartlets. Flaky golden puff pastry tartlets filled with deep mahogany thyme-caramelized onions and melted bubbling Gruyère cheese with browned edges, garnished with micro thyme, 50mm f/1.8, no text, no words."
+      },
+      {
+        "id": "recipe_06",
+        "aspect_ratio": "4:3",
+        "target": "recipe_06.png",
+        "prompt": "Editorial food photography. Colossal wild sea scallops wrapped in crispy applewood bacon on a ceramic platter. Perfectly seared golden scallops basted with foaming garlic-lemon herb butter, garnished with fresh chopped Italian parsley and lemon wedges, 50mm f/1.8, no text, no words."
+      },
+      {
+        "id": "recipe_07",
+        "aspect_ratio": "4:3",
+        "target": "recipe_07.png",
+        "prompt": "Editorial food photography. Smoked salmon cucumber ribbon rolls. Translucent green cucumber ribbons rolled around delicate Nova Scotia smoked salmon and lemon dill cream cheese, standing upright, garnished with capers and fresh dill fronds on a white platter, 50mm f/1.8, no text, no words."
+      },
+      {
+        "id": "recipe_08",
+        "aspect_ratio": "4:3",
+        "target": "recipe_08.png",
+        "prompt": "Editorial food photography. Jumbo wild prawn cocktail. Colossal poached pink prawns hung over the rim of an elegant silver footed bowl filled with crushed ice, centered with a small crystal dish of fiery red horseradish cocktail sauce and lemon wedges, 50mm f/1.8, no text, no words."
+      }
+    ]
+  }
+}
